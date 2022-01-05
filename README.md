@@ -2,8 +2,8 @@
 
 ## About
   
-  This application was built for the intention of maintaining a company focused on the selling of products through the internet.
-  I was provided a starter file outlining the structure of the application but with lots of missing code
+  This application was built for the intention of maintaining a companie's online database focused on selling of products through the internet.
+  I was provided a starter file outlining the structure of the application but with missing code.
   My job was to fill out the models for each data point, the associations between these models and fill out all of the necessary routes on the back-end using mysql and sequelize.
   
 ## Installation
