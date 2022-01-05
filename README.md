@@ -14,7 +14,7 @@ Before starting the server the user needs to ensure that the database is created
 After the database is created and set to being used run the command npm seed to populate the database with initial data.
 
 ## Videos
-[walkthrough]()
+[walkthrough](https://watch.screencastify.com/v/wiL1pLiLybQztxfPURcm)
 
 ## Created By
 Jared Chesebro'
